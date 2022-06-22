@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PabloROvalle/extraction_JWST_cube/HEAD?labpath=Reduce%20image.ipynb)
+
 # extraction JWST cube
 
 PLEASE INSTALL ASTROCONDA FOR RUNNING THIS CODE
