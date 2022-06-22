@@ -337,4 +337,3 @@ dependencies:
     - webbpsf==0.9.0
     - wslink==1.4.1
     - yarl==1.7.2
-prefix: /obs/povalle/anaconda3/envs/astroconda
